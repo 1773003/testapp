@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarbourTestApp", "AppHarbourTestApp\AppHarbourTestApp.csproj", "{FB37B2DA-0055-4ECD-8DD4-CC6AED85B613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarbourTestApp.Tests", "AppHarbourTestApp.Tests\AppHarbourTestApp.Tests.csproj", "{B1ECEA13-2652-402B-8DB7-7D9192B1F2F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB37B2DA-0055-4ECD-8DD4-CC6AED85B613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB37B2DA-0055-4ECD-8DD4-CC6AED85B613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB37B2DA-0055-4ECD-8DD4-CC6AED85B613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB37B2DA-0055-4ECD-8DD4-CC6AED85B613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1ECEA13-2652-402B-8DB7-7D9192B1F2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1ECEA13-2652-402B-8DB7-7D9192B1F2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1ECEA13-2652-402B-8DB7-7D9192B1F2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1ECEA13-2652-402B-8DB7-7D9192B1F2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
